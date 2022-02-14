@@ -1,7 +1,9 @@
 # Symbol Table
  C++ application that reads in .c files containing a C language program. Then records information in a Binary Search Tree such as the number of variables, functions and loops in the program.
 
-	Developer Command Prompt for VS 2019 is used for building
+	Developer Command Prompt for VS 2019 is used for building 
+
+[Learn More](https://docs.microsoft.com/en-us/visualstudio/ide/reference/command-prompt-powershell?view=vs-2019)
 
 Contents
 - [Symbol Table](#symbol-table)
@@ -9,7 +11,6 @@ Contents
   - [How to clean](#how-to-clean)
   - [Running the app](#running-the-app)
   - [Screenshots](#screenshots)
-
 
 ## How to build
 
